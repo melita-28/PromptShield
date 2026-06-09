@@ -7,6 +7,13 @@
 An AI-powered platform for prompt injection detection, attack generation, and automated LLM red teaming.
 <br>
 <br>
+## 🚀 Live Demo
+
+Try PromptShield AI Red Team Lab here:
+
+🔗 https://huggingface.co/spaces/melitamariam/PromptShield
+<br>
+<br>
 It helps identify vulnerabilities such as:
 
 ->Prompt Injection
@@ -33,10 +40,6 @@ Features:
 
 📊 Activity Dashboard
 
-<br>
-<br>
-Live Demo:
-[Hugging Face Space URL]
 <br>
 <br>
 Tech Stack:
