@@ -1,14 +1,34 @@
----
-title: RedTeamSimulator
-emoji: 🐨
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: 6.17.3
-python_version: '3.13'
-app_file: app.py
-pinned: false
-short_description: Stress Test LLM Applications
----
+PromptShield AI Red Team Lab
+Overview
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+PromptShield AI Red Team Lab is an AI-powered security assessment platform for Large Language Models (LLMs).
+
+It helps identify vulnerabilities such as:
+
+Prompt Injection
+Jailbreak Attacks
+System Prompt Extraction
+Data Exfiltration
+Role Manipulation
+Features
+🔍 Single Attack Analysis
+⚔️ Automatic Attack Suite Generation
+🛡️ Full Red Team Assessment
+📋 Executive Security Reporting
+📊 Activity Dashboard
+
+Live Demo
+
+[Hugging Face Space URL]
+
+Tech Stack
+Python
+Gradio
+Hugging Face Spaces
+Hugging Face Inference API
+Llama 3.1 8B Instruct
+Future Enhancements
+Individual Attack Scoring
+Security Risk Visualizations
+PDF Report Export
+Enterprise Monitoring Dashboard
