@@ -1,69 +1,119 @@
 # 🛡️ PromptShield AI Red Team Lab
 
-## AI Security Assessment Platform
+### AI Security Assessment Platform
 
-### Detect • Simulate • Assess • Defend
+**Detect • Simulate • Assess • Defend**
 
-An AI-powered platform for prompt injection detection, attack generation, and automated LLM red teaming.
-<br>
-<br>
+PromptShield AI Red Team Lab is an AI-powered security assessment platform designed to evaluate the resilience of Large Language Models (LLMs) against adversarial attacks. The platform enables automated red teaming, prompt injection detection, attack simulation, and security reporting to help identify potential vulnerabilities before deployment.
+
+---
+
 ## 🚀 Live Demo
 
-Try PromptShield AI Red Team Lab here:
+🔗 **Hugging Face Space:**
+https://huggingface.co/spaces/melitamariam/PromptShield
 
-🔗 https://huggingface.co/spaces/melitamariam/PromptShield
-<br>
-<br>
-It helps identify vulnerabilities such as:
+---
 
-->Prompt Injection
+## 📌 Overview
 
-->Jailbreak Attacks
+Modern AI systems are increasingly exposed to security threats such as prompt injections, jailbreak attempts, and sensitive information leakage. PromptShield provides an interactive environment to test, analyze, and assess these vulnerabilities through automated attack generation and security evaluation workflows.
 
-->System Prompt Extraction
+The platform helps identify risks including:
 
-->Data Exfiltration
+* Prompt Injection Attacks
+* Jailbreak Attempts
+* System Prompt Extraction
+* Data Exfiltration
+* Role Manipulation Attacks
 
-->Role Manipulation
-<br>
-<br>
-Features:
+---
 
+## ✨ Features
 
-🔍 Single Attack Analysis
+### 🔍 Single Attack Analysis
 
-⚔️ Automatic Attack Suite Generation
+Analyze a single prompt or attack vector and evaluate its effectiveness against an LLM.
 
-🛡️ Full Red Team Assessment
+### ⚔️ Automatic Attack Suite Generation
 
-📋 Executive Security Reporting
+Generate multiple attack scenarios automatically for comprehensive security testing.
 
-📊 Activity Dashboard
+### 🛡️ Full Red Team Assessment
 
-<br>
-<br>
-Tech Stack:
+Conduct end-to-end security evaluations using multiple attack strategies.
 
+### 📋 Executive Security Reporting
 
-->Python
+Generate structured security findings and risk summaries.
 
-->Gradio
+### 📊 Activity Dashboard
 
-->Hugging Face Spaces
+Monitor assessments, attack attempts, and evaluation results through a centralized dashboard.
 
-->Hugging Face Inference API
+---
 
-->Llama 3.1 8B Instruct
+## 🏗️ Tech Stack
 
-<br>
-<br>
-Future Enhancements:
+| Technology                 | Purpose                   |
+| -------------------------- | ------------------------- |
+| Python                     | Backend Development       |
+| Gradio                     | Interactive Web Interface |
+| Hugging Face Spaces        | Deployment Platform       |
+| Hugging Face Inference API | LLM Access & Inference    |
+| Llama 3.1 8B Instruct      | Language Model            |
 
+---
 
-->Individual Attack Scoring
+## 🖥️ How It Works
 
-->Security Risk Visualizations
+1. Enter a target prompt or security scenario.
+2. Select an assessment mode.
+3. Generate attack simulations automatically.
+4. Evaluate model responses for vulnerabilities.
+5. Review security findings and recommendations.
 
-->PDF Report Export
+---
 
-->Enterprise Monitoring Dashboard
+## 🎯 Use Cases
+
+* AI Security Research
+* Prompt Injection Testing
+* LLM Vulnerability Assessment
+* Red Team Exercises
+* Security Awareness Demonstrations
+* Educational Projects on AI Safety
+
+---
+
+## 🔮 Future Enhancements
+
+* Individual Attack Scoring
+* Security Risk Visualization Dashboard
+* PDF Report Export
+* Enterprise Monitoring & Analytics
+* Historical Assessment Tracking
+* Multi-Model Security Comparison
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit pull requests.
+
+---
+
+## 📄 License
+
+This project is developed for educational and research purposes.
+
+---
+
+## 👩‍💻 Author
+
+**Melita Mariam Mathew**
+
+B.Tech Computer Science Engineering Student
+
+AI Security • Machine Learning • Software Development
+
